@@ -1,2 +1,2 @@
 # URPShaders
-A collection of shaders for Unity. Made on shader graph for the Universal Render Pipeline
+A collection of shaders for Unity. Made with shader graph on the Universal Render Pipeline
