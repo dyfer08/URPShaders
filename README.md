@@ -1,7 +1,7 @@
 # URPShaders
 A collection of shaders for Unity. Made with shader graph on the Universal Render Pipeline
 
-##Generative 01
+## Generative 01
 Best in gamma color space
 
 ![Generative01](https://ferdinanddervieux.com/ImageHosting/Generative01shader.png)
